@@ -1,5 +1,5 @@
 import telebot
-from config import token
+from M2L4.config import token
 from random import choice, randint, sample
 import string
 
